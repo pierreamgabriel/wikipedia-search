@@ -1,0 +1,73 @@
+body {
+  background-color: blue;
+}
+.header {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+}
+.search {
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.random  {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+.random a {
+  color: white;
+  text-decoration: none;
+  
+  
+}
+.main {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 800px;
+}
+.result {
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  
+}
+.title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.description {
+ font-family: 'Roboto', sans-serif;
+ font-size: 15px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+.link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
