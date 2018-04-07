@@ -1,1 +1,1 @@
-# Wikipedia search app
+# Wikipedia Search Tool
