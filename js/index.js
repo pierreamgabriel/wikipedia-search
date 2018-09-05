@@ -1,5 +1,3 @@
-/* Wikipedia search app developed by Pierre Macedo */
-
 function buildURL() {
   var searchinput = $('#texttosearch').val();
   var URL = "https://en.wikipedia.org/w/api.php?origin=*&action=opensearch&search=" + searchinput;
